@@ -57,3 +57,4 @@ def load_and_log():
         run.log_artifact(raw_data)
 
 load_and_log()
+# Test trigger
